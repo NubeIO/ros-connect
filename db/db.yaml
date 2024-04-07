@@ -1,0 +1,8 @@
+
+91f8f04e40b14e0699475ef637bd7302:
+    name: host-1
+    uuid: 91f8f04e40b14e0699475ef637bd7302
+    ip: 127.0.0.1
+    grpcPort: 9090
+    port: 1770
+    https: false
